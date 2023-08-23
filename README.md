@@ -1,6 +1,7 @@
+```
 Name:Abishek Xavier A
-
 Reg no:212222230004
+```
 # EXPERIMENT 02 INTEFACING A DIGITAL INPUT TO ARM DEVELOPMENT BOARD
 ## Aim: To Interface a Digital Input  (userpush button  ) to ARM   development board and write a  program to obtain  the data and flash the led  
 ## Components required: STM32 CUBE IDE, ARM IOT development board,  STM programmer tool.
@@ -115,15 +116,13 @@ static void MX_GPIO_Init(void)
 
 }
 ```
-
-
-
 ## Output  :
-![out 1](https://github.com/AbishekAnand15/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118706942/9bb53f97-1a91-4ee3-a097-0cb651ba99d7)# EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD
-![out 2](https://github.com/AbishekAnand15/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118706942/187df1e5-47e5-4885-96b5-7d7a0dd325c4)
 
+ ### SWITCH ON
+ <img src="https://github.com/AbishekAnand15/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118706942/9bb53f97-1a91-4ee3-a097-0cb651ba99d7" width=475 height=475>
  
- 
+### SWITCH OFF 
+ <img src="https://github.com/AbishekAnand15/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118706942/187df1e5-47e5-4885-96b5-7d7a0dd325c4" width=475 height=475>
  
  
 ## Result :
