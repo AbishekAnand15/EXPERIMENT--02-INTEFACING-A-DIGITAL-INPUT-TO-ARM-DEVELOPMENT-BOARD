@@ -119,10 +119,10 @@ static void MX_GPIO_Init(void)
 ## Output  :
 
  ### SWITCH ON
- <img src="https://github.com/AbishekAnand15/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118706942/9bb53f97-1a91-4ee3-a097-0cb651ba99d7" width=475 height=475>
+ <img src="https://github.com/AbishekAnand15/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118706942/9bb53f97-1a91-4ee3-a097-0cb651ba99d7" width=450 height=450>
  
 ### SWITCH OFF 
- <img src="https://github.com/AbishekAnand15/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118706942/187df1e5-47e5-4885-96b5-7d7a0dd325c4" width=475 height=475>
+ <img src="https://github.com/AbishekAnand15/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118706942/187df1e5-47e5-4885-96b5-7d7a0dd325c4" width=450 height=450>
  
  
 ## Result :
